@@ -497,7 +497,7 @@ a.app_link{
 .app_features{
 	width: 100%;
 	padding: 100px 0 20px 0;
-	background-color: #41c17d;
+	background-color: #4CE0FF;
 	background-image: -moz-linear-gradient(bottom, #4CE0FF 0%, #4CE0FF 0.27%, #32D2FA 99.46%, #32D2FA 100%);
 	background-image: -o-linear-gradient(bottom, #4CE0FF 0%, #4CE0FF 0.27%, #32D2FA 99.46%, #32D2FA 100%);
 	background-image: -webkit-linear-gradient(bottom, #4CE0FF 0%, #4CE0FF 0.27%, #32D2FA 99.46%, #32D2FA 100%);
@@ -505,7 +505,7 @@ a.app_link{
 }
 
 .app_features h1{
-	color: #fff;
+	color: #000;
 	font-family: "open_semibold", Helvetica, Arial, sans-serif;
 	font-size: 20px;
 	margin: 50px 0 0 0;
@@ -513,7 +513,7 @@ a.app_link{
 }
 
 .app_features p{
-	color: #e0f7eb;
+	color: #000;
 	font-family: "open_regular", Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	margin: 30px 0 0 0;
@@ -656,7 +656,7 @@ a.app_link{
 }
 
 .sub_box .cta_text {
-	color: #fff;
+	color: #000;
 	font-family: "open_regular", Helvetica, Arial, sans-serif;
 	font-size: 20px;
 	margin-bottom: 50px;
@@ -667,11 +667,11 @@ a.app_link{
 	width: 300px;
 	height: 50px;
 	padding: 0 20px;
-	background-color: #fff;
+	background-color: #000;
 	border: 0;
 	outline: none;
 	margin-right: -4px;
-	color: #41c17d;
+	color: #4CE0FF;
 	font-family: "open_regular", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	vertical-align: middle;
